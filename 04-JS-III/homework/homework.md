@@ -1,0 +1,3 @@
+Homework: Javascript III
+
+* Arrays: Los "arrays" también conocidos como "matrices" o "arrelgos" son un tipo de dato conformado por varios elementos. Éstos se almacenan dentro de una variable de manera similar a una lista, separados por comas y dentro de corchetes. Se puede acceder al array a través del nombre de la variable o también a alguno de sus elementos según su posición, utilizando un índice. 
